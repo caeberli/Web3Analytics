@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'SK Cuber';
+    src: local('SK Cuber Expanded Rounded'), local('SK-Cuber-Expanded-Rounded'),
+        url('SKCuber-ExpandedRounded.woff2') format('woff2'),
+        url('SKCuber-ExpandedRounded.woff') format('woff'),
+        url('SKCuber-ExpandedRounded.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+
+

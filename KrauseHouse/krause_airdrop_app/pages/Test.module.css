@@ -1,0 +1,24 @@
+.test {
+    background-image: linear-gradient(180deg, #FF005B, #FFD4A9);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+  }
+
+
+  .btn {
+    border: 3px solid #f4efe9;
+    border-radius: 12px;
+    font-size: 14px;
+    background-color: #ff005b;
+    color: #fafafa;
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  .btn2 {
+    border: 3px solid #ff005b;
+    border-radius: 12px;
+    font-size: 14px;
+    background-color: #f4efe9;
+    color: #ff005b;
+    -webkit-tap-highlight-color: transparent;
+  }
