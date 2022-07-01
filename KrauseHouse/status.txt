@@ -1,0 +1,5 @@
+Data: Not pushed on GitHub. Result of the code file which generates potential target addresses for KrauseHouse
+
+Code: Jupyter Notebook to pull NFTs using APIs and analyse if they are basketball related. If so fetch their owner and wallet balance
+
+krause_airdrop_app: Only pages, constants and styles folders are pushed to github
