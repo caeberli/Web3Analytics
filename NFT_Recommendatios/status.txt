@@ -1,0 +1,7 @@
+Data - (Not on Git) We store our initial NFT files, Bert Model, HTML representation and list that we generate at one place and then want to use again at another place later
+
+FetchAndEmbedNFTs - One file to read the NFT description and then one file to generate sentence embeddings
+
+Generate Recommendations - For the initial prototype we only used 4 test addresses, but the WIP file contains all the logic required to have a modular environment
+
+Recommender_demo - The Front-end App. Pages and Styles pushed on Git
