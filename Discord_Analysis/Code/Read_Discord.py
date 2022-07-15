@@ -33,7 +33,7 @@ def read_discord():
     for channel in channel_ids:
 
         discord_token = (
-            "OTkwNjMyMDczMzAxNzQxNTg4.GFe3QE.II9nhxkZCK4UJXRXTaEvU_OxrNvyd9T6N5VZmM"
+            "OTkwNjMyMDczMzAxNzQxNT4.GFe3QE.II9nhxkZCK4UXRXTaEvU_OxrNvyd9T6N5VZmM"
         )
         format = "Json"
         path = f"../data/DiscordExports2/myExport_{channel}.json"
